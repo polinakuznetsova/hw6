@@ -11,6 +11,7 @@ sketch engine + google ngrams
     
 2.1 ![](https://github.com/polinakuznetsova/hw6/blob/master/2.1.%20modifiers%20question.PNG)
 
-2.2 ![](https://github.com/polinakuznetsova/hw6/blob/master/2.2.%20reduce%20decrease%20(objects).PNG)
+2.2 
+![](https://github.com/polinakuznetsova/hw6/blob/master/2.2.%20reduce%20decrease%20(objects).PNG)
 
 Оба глагола могут употребляться с дополнением rate. Reducе же чаще употребляется с emission, а decrease с wellbeing.
